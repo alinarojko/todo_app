@@ -1,0 +1,11 @@
+Task1
+add a new task
+Task3
+new task4
+ make pizza
+soup
+claen
+friday
+new task
+we just aade default parameter
+new git task

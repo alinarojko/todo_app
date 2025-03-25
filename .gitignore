@@ -1,6 +1,5 @@
 /.venv/
 bonus
-files
 e1_glob_module.py
 e2_csv_module.py
 e3_shutil_module.py

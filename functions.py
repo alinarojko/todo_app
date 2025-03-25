@@ -11,3 +11,5 @@ def write_todo(todos_arg, filepath=FILEPATH):
     ''' Write new todo to the existing file '''
     with open(filepath, 'w') as file:
         file.writelines(todos_arg)
+
+
