@@ -4,6 +4,7 @@ from functions import get_todos, write_todo
 # todos = functions.get_todos()
 import time
 now = time.strftime("%H:%M:%S , %d %b, %Y")
+print("Now the current time and date will be printed ")
 print("It is ", now)
 
 while True:
